@@ -1,6 +1,6 @@
-# PockitOnlineShopBackend
+# Online Shop Backend
 
-Pockit Online Shop Backend
+Online Shop Backend
 
 ## Getting started
 
